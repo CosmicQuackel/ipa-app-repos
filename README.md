@@ -1,6 +1,6 @@
-# ios-app-repos
+# ipa-app-repos
 
-iOS application repository with organized resource management.
+IPA repository with organized resource management.
 
 ## Directory Structure
 
