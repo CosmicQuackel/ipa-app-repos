@@ -1,0 +1,23 @@
+{
+  "name": "Example JSON File",
+  "description": "This is a sample JSON file to demonstrate the structure",
+  "version": "1.0.0",
+  "data": {
+    "items": [
+      {
+        "id": 1,
+        "title": "First Item",
+        "active": true
+      },
+      {
+        "id": 2,
+        "title": "Second Item",
+        "active": false
+      }
+    ],
+    "settings": {
+      "theme": "light",
+      "notifications": true
+    }
+  }
+}
